@@ -1,0 +1,12 @@
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\ApiPivote.exe
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\ApiPivote.dll
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\ApiPivote.deps.json
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\ApiPivote.runtimeconfig.json
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\ApiPivote.pdb
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\RestSharp.dll
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hural\source\repos\ApiPivote\ApiPivote\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

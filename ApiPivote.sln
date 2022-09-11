@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPivote", "ApiPivote\ApiPivote.csproj", "{92959073-2D0B-4389-9F5F-BE94A049AD64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92959073-2D0B-4389-9F5F-BE94A049AD64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92959073-2D0B-4389-9F5F-BE94A049AD64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92959073-2D0B-4389-9F5F-BE94A049AD64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92959073-2D0B-4389-9F5F-BE94A049AD64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4055693-F4C7-4B17-B625-196BC7D9A8C4}
+	EndGlobalSection
+EndGlobal
